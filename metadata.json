@@ -1,0 +1,6 @@
+{
+  "name": "Tangkap Si Jatuh!",
+  "description": "Game arkade seru menangkap buah, sayur, dan makanan lezat sambil menghindari kotoran dan bom berdentum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
